@@ -1,0 +1,6 @@
+At the start of your transaction you had 2103942 riel, 19092 kyat, 109 krones, and 9094 lek.
+Your 2103942 riel were exchanged for 547.02492 usd.
+Your 19092 riel were exchanged for 12.60072 usd.
+Your 109 riel were exchanged for 11.99 usd.
+Your 9094 riel were exchanged for 81.846 usd.
+After deducting the transactions fees, you'll be recieving 649.46164 usd.
